@@ -61,8 +61,8 @@ Refactored Code:
         Next k
 
 Run time results:
-![ VBA_Challenge_2017_refactored]()
-![ VBA_Challenge_2018_refactored]()
+![ VBA_Challenge_2017_refactored](https://github.com/K10Huff/Stock-Analysis--Green-Energy/blob/main/Resources/VBA_Challenge_2017_refactored.png)
+![ VBA_Challenge_2018_refactored](https://github.com/K10Huff/Stock-Analysis--Green-Energy/blob/main/Resources/VBA_Challenge_2018_refactored.png)
 
 
 vs. Original Code
@@ -101,8 +101,8 @@ The subroutine was coded to gather the relevant data within the initial For Loop
         Next i
 
 Run time results:
-![ VBA_Challenge_2017_original]()
-![ VBA_Challenge_2018_original]()
+![ VBA_Challenge_2017_original](https://github.com/K10Huff/Stock-Analysis--Green-Energy/blob/main/Resources/VBA_Challenge_2017_original.png)
+![ VBA_Challenge_2018_original](https://github.com/K10Huff/Stock-Analysis--Green-Energy/blob/main/Resources/VBA_Challenge_2018_original.png)
 
 ## **Summary**
 1.	What are the advantages or disadvantages of refactoring code? 
